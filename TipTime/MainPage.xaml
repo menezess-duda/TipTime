@@ -3,8 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TipTime.MainPage">
 
-
-    <VerticalStackLayout>
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25"
+         
+            >
 
         <Entry 
             x:Name="ValorTotalEntry" 
@@ -14,49 +18,56 @@
 
         <Label 
             Text="Gorjeta"  />
-            
+
         <Label 
             x:Name="ValorGorjetaLabel" 
             Text="0.00" 
             />
 
         <Label 
-            Text="ValorFinal" />
-            
-        <Label 
             x:Name="ValorFinalLabel" 
             Text="0.00" />
 
-        <Label 
-            Text="Porcentagem de gorjeta" />
-            
+
         <Label 
             x:Name="PorcentagemGorjetaLabel" 
             Text="15%"/>
 
+        
         <Slider 
             Maximum="100"  Minimum="0"
             x:Name="PorcentagemSlider"
             ValueChanged="PorcentagemSlider_ValueChanged" />
 
+        
+        
         <Button 
             x:Name="Porcentagem15Btn"
             Text="15%"
             Clicked="Porcentagem15Btn_Clicked" />
+        
+        
         <Button 
             x:Name="Porcentagem20Btn"
             Text="20%"
             Clicked="Porcentagem20Btn_Clicked" />
+        
+        
         <Button 
             x:Name="ArredondaCimaBtn" 
             Text="Arredondar para cima" 
             Clicked="ArredondaCimaBtn_Clicked"/>
+        
+        
         <Button 
             x:Name="ArredondaBaixoBtn"
             Text="Arredondar para baixo" 
             Clicked="ArredondaBaixoBtn_Clicked"/>
 
+        
     </VerticalStackLayout>
+
+        </ScrollView>
 
 
 </ContentPage>
