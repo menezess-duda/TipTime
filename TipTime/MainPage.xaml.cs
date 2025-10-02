@@ -47,7 +47,7 @@
         {
 
             double valor = Convert.ToDouble(ValorTotalEntry.Text);
-            double porcetagem = e.NewValue;
+            double porcetagem = e.NewValue; //-> dados recem alterados
             double gorjeta = valor * (porcetagem / 100);
             double valorFinal = valor + gorjeta;
             double gorjetaArredondada = Math.Round(gorjeta);
