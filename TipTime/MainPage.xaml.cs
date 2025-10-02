@@ -55,7 +55,7 @@
             ValorGorjetaLabel.Text = porcetagem.ToString();
 
             ValorGorjetaLabel.Text = $"Gorjeta: {gorjeta:C}";
-            ValorFinalLabel.Text = $"Total com Gorgejta: {valorFinal}";
+            ValorFinalLabel.Text = $"Total com Gorjeta: {valorFinal}";
 
         }
 
