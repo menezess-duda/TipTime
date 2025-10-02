@@ -28,15 +28,17 @@
             double gorjeta = Convert.ToDouble(ValorTotalEntry.Text);
             double ValorGorjetaLabel = gorjeta * (PorcentagemSlider.Value / 100);
             ValorGorjetaLabel = Math.Ceiling(ValorGorjetaLabel);
+            double arredondadoPraCima = Math.Ceiling(gorjeta / 10) * 10;
+            ValorTotalEntry.Text = arredondadoPraCima.ToString();
         }
 
 
 
         private void ArredondaBaixoBtn_Clicked(object sender, EventArgs e)
         {
-            double valor = Convert.ToDouble(ValorTotalEntry.Text);
-            double arredondado = Math.Floor(valor / 10) * 10;
-            ValorTotalEntry.Text = arredondado.ToString();
+            double gorjeta = Convert.ToDouble(ValorTotalEntry.Text);
+            double arredondadoPraBaixo = Math.Floor(gorjeta / 10) * 10;
+            ValorTotalEntry.Text = arredondadoPraBaixo.ToString();
 
         }
 

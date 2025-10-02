@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\2DS dudinha e heloisa\PAM\TipTime\TipTime\TipTime\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-10-01T22:34:30.013</Modified>
+      <Modified>2025-10-02T00:15:06.726</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS dudinha e heloisa\PAM\TipTime\TipTime\TipTime\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TipTime.dll">
       <PackagePath>TipTime.dll</PackagePath>
-      <Modified>2025-10-01T22:34:29.715</Modified>
+      <Modified>2025-10-02T00:15:06.405</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS dudinha e heloisa\PAM\TipTime\TipTime\TipTime\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TipTime.exe</PackagePath>
-      <Modified>2025-10-01T22:34:29.731</Modified>
+      <Modified>2025-10-02T00:15:06.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS dudinha e heloisa\PAM\TipTime\TipTime\TipTime\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
