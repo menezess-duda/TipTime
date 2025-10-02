@@ -34,9 +34,9 @@
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\2DS dudinha e heloisa\\PAM\\TipTime\\TipTime\\TipTime\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "TipTime\\MainPage.xaml.cs",
-              "ToolTip": "D:\\2DS dudinha e heloisa\\PAM\\TipTime\\TipTime\\TipTime\\MainPage.xaml.cs*",
-              "RelativeToolTip": "TipTime\\MainPage.xaml.cs*",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCgAAABCAAAAAAAAAA==",
+              "ToolTip": "D:\\2DS dudinha e heloisa\\PAM\\TipTime\\TipTime\\TipTime\\MainPage.xaml.cs",
+              "RelativeToolTip": "TipTime\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T22:29:39.478Z",
               "IsPinned": true,
@@ -53,8 +53,7 @@
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-01T22:43:01.076Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -66,8 +65,7 @@
               "RelativeToolTip": "TipTime\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T00:25:02.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T00:25:02.526Z"
             },
             {
               "$type": "Document",
@@ -79,8 +77,7 @@
               "RelativeToolTip": "TipTime\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T00:24:59.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T00:24:59.112Z"
             }
           ]
         }

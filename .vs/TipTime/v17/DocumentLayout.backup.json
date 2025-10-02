@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{C246F06B-846D-4992-A9FA-B50185FC78ED}|TipTime\\TipTime.csproj|d:\\2ds dudinha e heloisa\\pam\\tiptime\\tiptime\\tiptime\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C246F06B-846D-4992-A9FA-B50185FC78ED}|TipTime\\TipTime.csproj|solutionrelative:tiptime\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246F06B-846D-4992-A9FA-B50185FC78ED}|TipTime\\TipTime.csproj|d:\\2ds dudinha e heloisa\\pam\\tiptime\\tiptime\\tiptime\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C246F06B-846D-4992-A9FA-B50185FC78ED}|TipTime\\TipTime.csproj|solutionrelative:tiptime\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246F06B-846D-4992-A9FA-B50185FC78ED}|TipTime\\TipTime.csproj|d:\\2ds dudinha e heloisa\\pam\\tiptime\\tiptime\\tiptime\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C246F06B-846D-4992-A9FA-B50185FC78ED}|TipTime\\TipTime.csproj|solutionrelative:tiptime\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +36,7 @@
               "RelativeDocumentMoniker": "TipTime\\MainPage.xaml.cs",
               "ToolTip": "D:\\2DS dudinha e heloisa\\PAM\\TipTime\\TipTime\\TipTime\\MainPage.xaml.cs",
               "RelativeToolTip": "TipTime\\MainPage.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwB4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T22:29:39.478Z",
               "IsPinned": true,
@@ -42,10 +50,34 @@
               "RelativeDocumentMoniker": "TipTime\\MainPage.xaml",
               "ToolTip": "D:\\2DS dudinha e heloisa\\PAM\\TipTime\\TipTime\\TipTime\\MainPage.xaml",
               "RelativeToolTip": "TipTime\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-01T22:43:01.076Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\2DS dudinha e heloisa\\PAM\\TipTime\\TipTime\\TipTime\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TipTime\\MauiProgram.cs",
+              "ToolTip": "D:\\2DS dudinha e heloisa\\PAM\\TipTime\\TipTime\\TipTime\\MauiProgram.cs",
+              "RelativeToolTip": "TipTime\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:25:02.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\2DS dudinha e heloisa\\PAM\\TipTime\\TipTime\\TipTime\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TipTime\\AppShell.xaml.cs",
+              "ToolTip": "D:\\2DS dudinha e heloisa\\PAM\\TipTime\\TipTime\\TipTime\\AppShell.xaml.cs",
+              "RelativeToolTip": "TipTime\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:24:59.112Z"
             }
           ]
         }
